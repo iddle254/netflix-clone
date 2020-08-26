@@ -7,3 +7,7 @@
 .row-posters::-webkit-scrollbar {
   display: none;
 }
+.row {
+  color: white;
+  margin-left: 20px;
+}
